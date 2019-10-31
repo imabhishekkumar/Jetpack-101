@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Navigation Demo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_destination">First Destination</string>
+    <string name="second_destination">Second Destination</string>
+    <string name="enter_some_text">Enter some text</string>
+</resources>
